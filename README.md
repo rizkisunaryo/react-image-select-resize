@@ -1,5 +1,5 @@
 
-This is a library to select and compress image.
+This is a library to select and resize image.
 
 ![ezgif-2-679c697523f6](https://user-images.githubusercontent.com/2413398/69517176-8931d480-0f86-11ea-92d7-a473a9a753f6.gif)
 
