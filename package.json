@@ -1,5 +1,5 @@
 {
-  "name": "react-image-select-resize",
+  "name": "@rizkisunaryo/react-image-select-resize",
   "version": "1.0.0",
   "description": "This is a library to select and resize image",
   "main": "index.js",
