@@ -1,6 +1,6 @@
 {
   "name": "@rizkisunaryo/react-image-select-resize",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a library to select and resize image",
   "main": "index.js",
   "repository": "git@github.com:rizkisunaryo/react-image-select-resize.git",
@@ -10,7 +10,6 @@
     "build": "webpack"
   },
   "dependencies": {
-    "react": "16.12.0",
-    "react-dom": "16.12.0"
+    "react": "16.12.0"
   }
 }
